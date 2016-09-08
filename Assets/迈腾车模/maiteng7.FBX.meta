@@ -1,0 +1,635 @@
+fileFormatVersion: 2
+guid: 8e9aa24cf8a3f9c41ba7304549f469ad
+timeCreated: 1473234713
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: antena
+    100002: antifoggs02
+    100004: antifoggs1
+    100006: arches
+    100008: back door
+    100010: back light
+    100012: back light fender
+    100014: back number
+    100016: back window
+    100018: bamper back01
+    100020: bamper front
+    100022: Box01
+    100024: Box02
+    100026: Box03
+    100028: Box04
+    100030: Box05
+    100032: Box06
+    100034: Box07
+    100036: Box08
+    100038: Box09
+    100040: Box10
+    100042: Box12
+    100044: Cylinder01
+    100046: Cylinder02
+    100048: Cylinder03
+    100050: Cylinder04
+    100052: Cylinder05
+    100054: default02
+    100056: default03
+    100058: fender
+    100060: floor,gearbox panel01
+    100062: front number
+    100064: gearbox
+    100066: grile bamper front
+    100068: grile logo
+    100070: grille front
+    100072: Group09
+    100074: Group10
+    100076: Group11
+    100078: Group12
+    100080: Group13
+    100082: headlight glass
+    100084: headlight interior
+    100086: hood
+    100088: houbeixianggai
+    100090: instrument panel
+    100092: int back light door
+    100094: int bamper front
+    100096: int grile logo
+    100098: int.back window
+    100100: int.light back fender
+    100102: interior
+    100104: interior panel
+    100106: interior windshield
+    100108: light bamper back
+    100110: logo st.wheel
+    100112: logobase
+    100114: //RootNode
+    100116: mirror left02
+    100118: mirror left03
+    100120: Object01
+    100122: Object02
+    100124: Object03
+    100126: Object04
+    100128: Object05
+    100130: Object06
+    100132: Object07
+    100134: Object08
+    100136: Object09
+    100138: Object10
+    100140: Object13
+    100142: Object14
+    100144: Object23
+    100146: Object24
+    100148: Object25
+    100150: Object26
+    100152: Object27
+    100154: Object28
+    100156: Object29
+    100158: Object30
+    100160: Object31
+    100162: Object32
+    100164: Object33
+    100166: Object34
+    100168: Object35
+    100170: Object36
+    100172: Object37
+    100174: Object38
+    100176: Object39
+    100178: Object42
+    100180: Object43
+    100182: Object44
+    100184: Object45
+    100186: Object46
+    100188: Object47
+    100190: Plane02
+    100192: Plane06
+    100194: Plane07
+    100196: Plane08
+    100198: Plane09
+    100200: roof&back fender
+    100202: roof&back fender01
+    100204: salon mirror
+    100206: seat front01
+    100208: seat front02
+    100210: seats back
+    100212: side windows02
+    100214: side windows03
+    100216: 'st. wheel '
+    100218: steering wheel
+    100220: sunroof
+    100222: tail pipe
+    100224: Text01
+    100226: Text02
+    100228: windshield
+    100230: wipers
+    100232: wipers mont01
+    400000: antena
+    400002: antifoggs02
+    400004: antifoggs1
+    400006: arches
+    400008: back door
+    400010: back light
+    400012: back light fender
+    400014: back number
+    400016: back window
+    400018: bamper back01
+    400020: bamper front
+    400022: Box01
+    400024: Box02
+    400026: Box03
+    400028: Box04
+    400030: Box05
+    400032: Box06
+    400034: Box07
+    400036: Box08
+    400038: Box09
+    400040: Box10
+    400042: Box12
+    400044: Cylinder01
+    400046: Cylinder02
+    400048: Cylinder03
+    400050: Cylinder04
+    400052: Cylinder05
+    400054: default02
+    400056: default03
+    400058: fender
+    400060: floor,gearbox panel01
+    400062: front number
+    400064: gearbox
+    400066: grile bamper front
+    400068: grile logo
+    400070: grille front
+    400072: Group09
+    400074: Group10
+    400076: Group11
+    400078: Group12
+    400080: Group13
+    400082: headlight glass
+    400084: headlight interior
+    400086: hood
+    400088: houbeixianggai
+    400090: instrument panel
+    400092: int back light door
+    400094: int bamper front
+    400096: int grile logo
+    400098: int.back window
+    400100: int.light back fender
+    400102: interior
+    400104: interior panel
+    400106: interior windshield
+    400108: light bamper back
+    400110: logo st.wheel
+    400112: logobase
+    400114: //RootNode
+    400116: mirror left02
+    400118: mirror left03
+    400120: Object01
+    400122: Object02
+    400124: Object03
+    400126: Object04
+    400128: Object05
+    400130: Object06
+    400132: Object07
+    400134: Object08
+    400136: Object09
+    400138: Object10
+    400140: Object13
+    400142: Object14
+    400144: Object23
+    400146: Object24
+    400148: Object25
+    400150: Object26
+    400152: Object27
+    400154: Object28
+    400156: Object29
+    400158: Object30
+    400160: Object31
+    400162: Object32
+    400164: Object33
+    400166: Object34
+    400168: Object35
+    400170: Object36
+    400172: Object37
+    400174: Object38
+    400176: Object39
+    400178: Object42
+    400180: Object43
+    400182: Object44
+    400184: Object45
+    400186: Object46
+    400188: Object47
+    400190: Plane02
+    400192: Plane06
+    400194: Plane07
+    400196: Plane08
+    400198: Plane09
+    400200: roof&back fender
+    400202: roof&back fender01
+    400204: salon mirror
+    400206: seat front01
+    400208: seat front02
+    400210: seats back
+    400212: side windows02
+    400214: side windows03
+    400216: 'st. wheel '
+    400218: steering wheel
+    400220: sunroof
+    400222: tail pipe
+    400224: Text01
+    400226: Text02
+    400228: windshield
+    400230: wipers
+    400232: wipers mont01
+    2300000: antena
+    2300002: antifoggs02
+    2300004: antifoggs1
+    2300006: arches
+    2300008: back door
+    2300010: back light
+    2300012: back light fender
+    2300014: back number
+    2300016: back window
+    2300018: bamper back01
+    2300020: bamper front
+    2300022: Box01
+    2300024: Box02
+    2300026: Box03
+    2300028: Box04
+    2300030: Box05
+    2300032: Box06
+    2300034: Box07
+    2300036: Box08
+    2300038: Box09
+    2300040: Box10
+    2300042: Box12
+    2300044: Cylinder01
+    2300046: Cylinder02
+    2300048: Cylinder03
+    2300050: Cylinder04
+    2300052: Cylinder05
+    2300054: default02
+    2300056: default03
+    2300058: fender
+    2300060: floor,gearbox panel01
+    2300062: front number
+    2300064: gearbox
+    2300066: grile bamper front
+    2300068: grile logo
+    2300070: grille front
+    2300072: headlight glass
+    2300074: headlight interior
+    2300076: hood
+    2300078: instrument panel
+    2300080: int back light door
+    2300082: int bamper front
+    2300084: int grile logo
+    2300086: int.back window
+    2300088: int.light back fender
+    2300090: interior
+    2300092: interior panel
+    2300094: interior windshield
+    2300096: light bamper back
+    2300098: logo st.wheel
+    2300100: logobase
+    2300102: mirror left02
+    2300104: mirror left03
+    2300106: Object01
+    2300108: Object02
+    2300110: Object03
+    2300112: Object04
+    2300114: Object05
+    2300116: Object06
+    2300118: Object07
+    2300120: Object08
+    2300122: Object09
+    2300124: Object10
+    2300126: Object13
+    2300128: Object14
+    2300130: Object23
+    2300132: Object24
+    2300134: Object25
+    2300136: Object26
+    2300138: Object27
+    2300140: Object28
+    2300142: Object29
+    2300144: Object30
+    2300146: Object31
+    2300148: Object32
+    2300150: Object33
+    2300152: Object34
+    2300154: Object35
+    2300156: Object36
+    2300158: Object37
+    2300160: Object38
+    2300162: Object39
+    2300164: Object42
+    2300166: Object43
+    2300168: Object44
+    2300170: Object45
+    2300172: Object46
+    2300174: Object47
+    2300176: Plane02
+    2300178: Plane06
+    2300180: Plane07
+    2300182: Plane08
+    2300184: Plane09
+    2300186: roof&back fender
+    2300188: roof&back fender01
+    2300190: salon mirror
+    2300192: seat front01
+    2300194: seat front02
+    2300196: seats back
+    2300198: side windows02
+    2300200: side windows03
+    2300202: 'st. wheel '
+    2300204: steering wheel
+    2300206: sunroof
+    2300208: tail pipe
+    2300210: Text01
+    2300212: Text02
+    2300214: windshield
+    2300216: wipers
+    2300218: wipers mont01
+    3300000: antena
+    3300002: antifoggs02
+    3300004: antifoggs1
+    3300006: arches
+    3300008: back door
+    3300010: back light
+    3300012: back light fender
+    3300014: back number
+    3300016: back window
+    3300018: bamper back01
+    3300020: bamper front
+    3300022: Box01
+    3300024: Box02
+    3300026: Box03
+    3300028: Box04
+    3300030: Box05
+    3300032: Box06
+    3300034: Box07
+    3300036: Box08
+    3300038: Box09
+    3300040: Box10
+    3300042: Box12
+    3300044: Cylinder01
+    3300046: Cylinder02
+    3300048: Cylinder03
+    3300050: Cylinder04
+    3300052: Cylinder05
+    3300054: default02
+    3300056: default03
+    3300058: fender
+    3300060: floor,gearbox panel01
+    3300062: front number
+    3300064: gearbox
+    3300066: grile bamper front
+    3300068: grile logo
+    3300070: grille front
+    3300072: headlight glass
+    3300074: headlight interior
+    3300076: hood
+    3300078: instrument panel
+    3300080: int back light door
+    3300082: int bamper front
+    3300084: int grile logo
+    3300086: int.back window
+    3300088: int.light back fender
+    3300090: interior
+    3300092: interior panel
+    3300094: interior windshield
+    3300096: light bamper back
+    3300098: logo st.wheel
+    3300100: logobase
+    3300102: mirror left02
+    3300104: mirror left03
+    3300106: Object01
+    3300108: Object02
+    3300110: Object03
+    3300112: Object04
+    3300114: Object05
+    3300116: Object06
+    3300118: Object07
+    3300120: Object08
+    3300122: Object09
+    3300124: Object10
+    3300126: Object13
+    3300128: Object14
+    3300130: Object23
+    3300132: Object24
+    3300134: Object25
+    3300136: Object26
+    3300138: Object27
+    3300140: Object28
+    3300142: Object29
+    3300144: Object30
+    3300146: Object31
+    3300148: Object32
+    3300150: Object33
+    3300152: Object34
+    3300154: Object35
+    3300156: Object36
+    3300158: Object37
+    3300160: Object38
+    3300162: Object39
+    3300164: Object42
+    3300166: Object43
+    3300168: Object44
+    3300170: Object45
+    3300172: Object46
+    3300174: Object47
+    3300176: Plane02
+    3300178: Plane06
+    3300180: Plane07
+    3300182: Plane08
+    3300184: Plane09
+    3300186: roof&back fender
+    3300188: roof&back fender01
+    3300190: salon mirror
+    3300192: seat front01
+    3300194: seat front02
+    3300196: seats back
+    3300198: side windows02
+    3300200: side windows03
+    3300202: 'st. wheel '
+    3300204: steering wheel
+    3300206: sunroof
+    3300208: tail pipe
+    3300210: Text01
+    3300212: Text02
+    3300214: windshield
+    3300216: wipers
+    3300218: wipers mont01
+    4300000: interior
+    4300002: seats back
+    4300004: seat front01
+    4300006: salon mirror
+    4300008: steering wheel
+    4300010: 'st. wheel '
+    4300012: gearbox
+    4300014: instrument panel
+    4300016: logo st.wheel
+    4300018: seat front02
+    4300020: interior panel
+    4300022: windshield
+    4300024: back window
+    4300026: arches
+    4300028: hood
+    4300030: sunroof
+    4300032: bamper front
+    4300034: fender
+    4300036: roof&back fender
+    4300038: interior windshield
+    4300040: int.back window
+    4300042: headlight glass
+    4300044: logobase
+    4300046: grile logo
+    4300048: int grile logo
+    4300050: headlight interior
+    4300052: grile bamper front
+    4300054: int bamper front
+    4300056: antifoggs1
+    4300058: grille front
+    4300060: front number
+    4300062: antifoggs02
+    4300064: wipers
+    4300066: back light fender
+    4300068: light bamper back
+    4300070: back number
+    4300072: int.light back fender
+    4300074: antena
+    4300076: tail pipe
+    4300078: bamper back01
+    4300080: Cylinder02
+    4300082: Object13
+    4300084: Object14
+    4300086: Plane06
+    4300088: Object26
+    4300090: Object25
+    4300092: Object24
+    4300094: mirror left02
+    4300096: Object23
+    4300098: Plane07
+    4300100: Object30
+    4300102: Object29
+    4300104: Object28
+    4300106: side windows02
+    4300108: Object27
+    4300110: Object31
+    4300112: Plane08
+    4300114: Object32
+    4300116: Object33
+    4300118: Object34
+    4300120: side windows03
+    4300122: Object35
+    4300124: Plane09
+    4300126: Object36
+    4300128: Object37
+    4300130: Object38
+    4300132: mirror left03
+    4300134: Object01
+    4300136: Text02
+    4300138: Text01
+    4300140: int back light door
+    4300142: back light
+    4300144: back door
+    4300146: Object02
+    4300148: default02
+    4300150: Object09
+    4300152: Object03
+    4300154: Object04
+    4300156: floor,gearbox panel01
+    4300158: Object05
+    4300160: wipers mont01
+    4300162: Box01
+    4300164: Box02
+    4300166: roof&back fender01
+    4300168: Object42
+    4300170: Object43
+    4300172: Cylinder01
+    4300174: Box03
+    4300176: Box04
+    4300178: Cylinder03
+    4300180: Box05
+    4300182: Box06
+    4300184: Cylinder04
+    4300186: Box07
+    4300188: Box08
+    4300190: Box09
+    4300192: Box10
+    4300194: Cylinder05
+    4300196: Object39
+    4300198: Object44
+    4300200: Object45
+    4300202: Object46
+    4300204: Object07
+    4300206: Object47
+    4300208: Object08
+    4300210: Box12
+    4300212: Object06
+    4300214: Plane02
+    4300216: Object10
+    4300218: default03
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

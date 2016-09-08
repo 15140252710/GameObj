@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 5058c3fca23c48f42991e0ed9f7b27d5
+timeCreated: 1473234708
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: yg_cg
+    100004: yg_cls
+    100006: yg_cm
+    100008: yg_dcj
+    100010: yg_dp
+    100012: yg_hbxg
+    100014: yg_hcd
+    100016: yg_hcg
+    100018: yg_mbs
+    100020: yg_qbxg
+    100022: yg_qdd
+    100024: yg_wd
+    100026: yg_ysq
+    100028: yg_yxg
+    100030: yg_yyx
+    100032: yg_yzb
+    100034: yg_zycw
+    100036: yg_zyx
+    400000: //RootNode
+    400002: yg_cg
+    400004: yg_cls
+    400006: yg_cm
+    400008: yg_dcj
+    400010: yg_dp
+    400012: yg_hbxg
+    400014: yg_hcd
+    400016: yg_hcg
+    400018: yg_mbs
+    400020: yg_qbxg
+    400022: yg_qdd
+    400024: yg_wd
+    400026: yg_ysq
+    400028: yg_yxg
+    400030: yg_yyx
+    400032: yg_yzb
+    400034: yg_zycw
+    400036: yg_zyx
+    2300000: yg_cg
+    2300002: yg_cls
+    2300004: yg_cm
+    2300006: yg_dcj
+    2300008: yg_dp
+    2300010: yg_hbxg
+    2300012: yg_hcd
+    2300014: yg_hcg
+    2300016: yg_mbs
+    2300018: yg_qbxg
+    2300020: yg_qdd
+    2300022: yg_wd
+    2300024: yg_ysq
+    2300026: yg_yxg
+    2300028: yg_yyx
+    2300030: yg_yzb
+    2300032: yg_zycw
+    2300034: yg_zyx
+    3300000: yg_cg
+    3300002: yg_cls
+    3300004: yg_cm
+    3300006: yg_dcj
+    3300008: yg_dp
+    3300010: yg_hbxg
+    3300012: yg_hcd
+    3300014: yg_hcg
+    3300016: yg_mbs
+    3300018: yg_qbxg
+    3300020: yg_qdd
+    3300022: yg_wd
+    3300024: yg_ysq
+    3300026: yg_yxg
+    3300028: yg_yyx
+    3300030: yg_yzb
+    3300032: yg_zycw
+    3300034: yg_zyx
+    4300000: yg_hcg
+    4300002: yg_cm
+    4300004: yg_cg
+    4300006: yg_dp
+    4300008: yg_cls
+    4300010: yg_qdd
+    4300012: yg_dcj
+    4300014: yg_hbxg
+    4300016: yg_hcd
+    4300018: yg_mbs
+    4300020: yg_qbxg
+    4300022: yg_wd
+    4300024: yg_zyx
+    4300026: yg_yyx
+    4300028: yg_yzb
+    4300030: yg_yxg
+    4300032: yg_ysq
+    4300034: yg_zycw
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

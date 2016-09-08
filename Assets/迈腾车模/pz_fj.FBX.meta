@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: dbb4def0d0a0f9c40a61ba3516359bfc
+timeCreated: 1473234715
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: fdjg
+    100002: fj_bl_h
+    100004: fj_bl_Q
+    100006: fj_bl_zq
+    100008: fj_hbx_bt
+    100010: fj_hbx_btc
+    100012: fj_hbx_dn
+    100014: fj_hbx_dt
+    100016: fj_hbx_mft
+    100018: fj_hbx_ycgj
+    100020: fj_lt_zh
+    100022: fj_scp_zq
+    100024: hbx-dtsk
+    100026: hbxg
+    100028: //RootNode
+    100030: yg_3jc
+    100032: yg_mskzq
+    100034: yhm
+    100036: yqm
+    100038: zhm
+    100040: zqm
+    400000: fdjg
+    400002: fj_bl_h
+    400004: fj_bl_Q
+    400006: fj_bl_zq
+    400008: fj_hbx_bt
+    400010: fj_hbx_btc
+    400012: fj_hbx_dn
+    400014: fj_hbx_dt
+    400016: fj_hbx_mft
+    400018: fj_hbx_ycgj
+    400020: fj_lt_zh
+    400022: fj_scp_zq
+    400024: hbx-dtsk
+    400026: hbxg
+    400028: //RootNode
+    400030: yg_3jc
+    400032: yg_mskzq
+    400034: yhm
+    400036: yqm
+    400038: zhm
+    400040: zqm
+    2300000: fdjg
+    2300002: fj_bl_h
+    2300004: fj_bl_Q
+    2300006: fj_bl_zq
+    2300008: fj_hbx_bt
+    2300010: fj_hbx_btc
+    2300012: fj_hbx_dn
+    2300014: fj_hbx_dt
+    2300016: fj_hbx_mft
+    2300018: fj_hbx_ycgj
+    2300020: fj_lt_zh
+    2300022: fj_scp_zq
+    2300024: hbx-dtsk
+    2300026: hbxg
+    2300028: yg_3jc
+    2300030: yg_mskzq
+    2300032: yhm
+    2300034: yqm
+    2300036: zhm
+    2300038: zqm
+    3300000: fdjg
+    3300002: fj_bl_h
+    3300004: fj_bl_Q
+    3300006: fj_bl_zq
+    3300008: fj_hbx_bt
+    3300010: fj_hbx_btc
+    3300012: fj_hbx_dn
+    3300014: fj_hbx_dt
+    3300016: fj_hbx_mft
+    3300018: fj_hbx_ycgj
+    3300020: fj_lt_zh
+    3300022: fj_scp_zq
+    3300024: hbx-dtsk
+    3300026: hbxg
+    3300028: yg_3jc
+    3300030: yg_mskzq
+    3300032: yhm
+    3300034: yqm
+    3300036: zhm
+    3300038: zqm
+    4300000: fj_hbx_btc
+    4300002: fj_hbx_bt
+    4300004: fj_hbx_dn
+    4300006: fj_hbx_ycgj
+    4300008: hbxg
+    4300010: zqm
+    4300012: zhm
+    4300014: fj_bl_zq
+    4300016: yqm
+    4300018: yhm
+    4300020: fj_bl_Q
+    4300022: fj_bl_h
+    4300024: fj_lt_zh
+    4300026: fj_scp_zq
+    4300028: fdjg
+    4300030: fj_hbx_dt
+    4300032: hbx-dtsk
+    4300034: fj_hbx_mft
+    4300036: yg_mskzq
+    4300038: yg_3jc
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
